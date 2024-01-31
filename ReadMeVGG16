@@ -3,8 +3,16 @@ After tray detection, I cropped the tray and sent it to the vgg16 model.
  
 "EveningTray"  "BreakfastTray" classification.
 
-If the result is  EveningTray , dinner food yolo works.
+If the result is  EveningTray , dinner food yolo works. 
+After, MainCourseClassification.ipynb This model works if the food type is "Main Course"  I cropped it again and sent it to the new classification model.((Stew,Rice,Pasta,Beans))
+       SoupClassification.ipynb This model works if the food type is "Soup"  (RedSoup, WhiteSoup) tomato soup, lentil soup in the future. Since there are not many soup images, I separated them by color. 
+
 
 If the result is BreakfastTray , breakfast  yolo works.
+After, breakfastClassification.ipynb This model works if the food type is "breakfast product"  I cropped it again and sent it to the new classification model.((Cheese,Olives,Cucumber,Tomato))
+Note: I am improving the breakfast section.
+
+   
+
 
 
