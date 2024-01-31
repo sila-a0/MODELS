@@ -1,4 +1,4 @@
 I used a total of 3 YOLOV5 model.
-the first one is the yolov5 model for tray detection.
+the first one is the yolov5 model for tray detection. NOTE: Since the food is in the tray, we detect the tray. No need to look for food outside the tray.
 the second is the yolov5 model for dinner food detection
 The third one is Yolov5 model for breakfast food detection.
