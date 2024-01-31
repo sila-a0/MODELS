@@ -1,0 +1,10 @@
+
+After tray detection, I cropped the tray and sent it to the vgg16 model.
+ 
+"EveningTray"  "BreakfastTray" classification.
+
+If the result is  EveningTray , dinner food yolo works.
+
+If the result is BreakfastTray , breakfast  yolo works.
+
+
